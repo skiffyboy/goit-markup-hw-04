@@ -193,6 +193,17 @@ ul {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.div-benefits {
+  background: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 100px;
+  padding-left: 100px;
+  width: 264px;
+  height: 112px;
+}
 .benefits-ul {
   display: flex;
   gap: 24px;
