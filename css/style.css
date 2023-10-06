@@ -148,7 +148,7 @@ header {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("/images/office.jpg");
+    url("../images/office.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
